@@ -1,2 +1,4 @@
 # JQuery-practice
-following: https://www.youtube.com/watch?v=QhQ4m5g2fhA
+following:
+https://www.youtube.com/watch?v=QhQ4m5g2fhA<br>
+https://learn.jquery.com/
