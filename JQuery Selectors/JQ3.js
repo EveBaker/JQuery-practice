@@ -14,5 +14,13 @@ function func1()
     */
 
     //changes both of the box p's to itallic
-    $(".para").css("font-style","italic");
+    //$(".para").css("font-style","italic");
+
+    //changes color of div 1 and 2
+    //$("#div1,#div2").css('background-color','green');
+
+    //changes color of 1 and 3
+   //$("#div1,#div3").css('background-color','green');
+
+    $("#div1, li").css('background-color','purple');
 }
